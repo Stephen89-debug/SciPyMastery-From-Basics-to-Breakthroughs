@@ -1,4 +1,4 @@
-
+8c52f9f54068e527b6dd3b1d0161a00152dcd5cf
 
 # SciPyMastery: From Basics to Breakthroughs
 
